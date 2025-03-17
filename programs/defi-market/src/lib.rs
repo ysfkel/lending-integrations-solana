@@ -1,5 +1,6 @@
 mod instructions;
 mod state;
+mod error;
 
 use anchor_lang::prelude::*;
 use anchor_lang::solana_program::instruction::{AccountMeta, Instruction};
@@ -7,6 +8,8 @@ use anchor_lang::solana_program::program::invoke;
 
 use instructions::*;
 use state::*;
+use error::*;
+
 
 declare_id!("5hSmUyjTFpeeZScxDxUpLX5rg4GyN1yCh8ky6GfQ44X6");
 
@@ -19,15 +22,18 @@ pub mod defi_market {
         ctx: Context<DepositReserveLiquidity>,
         amount: u64,
     ) -> Result<()> {
+        require_gt!(amount, 0, ProtocolErrorCode::AmountZero);
         instructions::deposit_reserve_liquidity(ctx, amount)?;
         Ok(())
      }
     pub fn deposit_obligation_collateral(ctx: Context<DepositObligationCollateral>, amount: u64) -> Result<()> {
+        require_gt!(amount, 0, ProtocolErrorCode::AmountZero);
         instructions::deposit_obligation_collateral(ctx, amount)?;
         Ok(())
     }
 
     pub fn borrow_obligation_liquidity(ctx: Context<BorrowObligationLiquidity>, amount: u64) -> Result<()> {
+        require_gt!(amount, 0, ProtocolErrorCode::AmountZero);
         instructions::borrow_obligation_liquidity(ctx, amount)?;
         Ok(())
     }

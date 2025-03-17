@@ -29,4 +29,4 @@ pub const LENDING_MARKET: &'static str = "GvjoVKNjBvQcFaSKUW1gTE7DxhSpjHbE69umVR
 pub const LENDING_MARKET_AUTHORITY: &str = "EhJ4fwaXUp7aiwvZThSUaGWCaBQAJe3AEaJJJVCn3UCK"; // json: authorityAddress The PDA that acts as the lending market authority.
 
 
-// solana-test-validator -r --clone-upgradeable-program So1endDq2YkqhipRh3WViPa8hdiSpxWy6z3Z6tMCpAo --clone GvjoVKNjBvQcFaSKUW1gTE7DxhSpjHbE69umVR5nPuQp --clone DdZR6zRFiUt4S5mg7AV1uKB2z1f1WzcNYCaTEEWPAuby --url  https://api.mainnet-beta.solana.com
+ 
