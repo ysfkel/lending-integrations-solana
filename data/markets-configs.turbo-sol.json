@@ -1,0 +1,56 @@
+[
+  {
+    "name": "TURBO SOL",
+    "isPrimary": false,
+    "description": "The TURBO SOL pool offers increased LTV to allow a leveraged SOL position up to 4x. Higher leverage comes at the cost of increased liquidation risk so proceed with caution",
+    "creator": "5pHk2TmnqQzRF9L6egy5FfiyBgS7G9cMZ5RFaJAvghzw",
+    "address": "7RCz8wb6WXxUhAigok9ttgrVgDFFFbibcirECzWSBauM",
+    "hidden": false,
+    "isPermissionless": false,
+    "authorityAddress": "55YceCDfyvdcPPozDiMeNp9TpwmL1hdoTEFw5BMNWbpf",
+    "owner": "5pHk2TmnqQzRF9L6egy5FfiyBgS7G9cMZ5RFaJAvghzw",
+    "reserves": [
+      {
+        "liquidityToken": {
+          "coingeckoID": "usd-coin",
+          "decimals": 6,
+          "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+          "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "volume24h": "3998647138.767219"
+        },
+        "pythOracle": "Dpw1EAVrSB1ibxiDQyTAW6Zip3J4Btk2x4SgApQCeFbX",
+        "switchboardOracle": "BjUgj6YCnFBZ49wF54ddBVA9qu8TeqkFtkbqmZcee8uW",
+        "extraOracle": "11111111111111111111111111111111",
+        "address": "EjUgEaPpKMg2nqex9obb46gZQ6Ar9mWSdVKbw9A6PyXA",
+        "collateralMintAddress": "HKijBKC2zKcV2BXA9CuNemmWUhTuFkPLLgvQBP7zrQjL",
+        "collateralSupplyAddress": "8YGu5iFMKHau2XjVBwKiyPjY2rYpbaLMyxfVhM916jPd",
+        "liquidityAddress": "49mYvAcRHFYnHt3guRPsxecFqBAY8frkGSFuXRL3cqfC",
+        "liquidityFeeReceiverAddress": "5Gdxn4yquneifE6uk9tK8X4CqHfWKjW2BvYU25hAykwP",
+        "userSupplyCap": "400000"
+      },
+      {
+        "liquidityToken": {
+          "coingeckoID": "wrapped-solana",
+          "decimals": 9,
+          "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+          "mint": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "volume24h": "21524593.743626755"
+        },
+        "pythOracle": "7UVimffxr9ow1uXYxsr4LHAcV58mLzhmwaeKvJ1pjLiE",
+        "switchboardOracle": "GvDMxPzN1sCj7L26YDK2HnMRXEQmQ2aemov8YBtPS7vR",
+        "extraOracle": "11111111111111111111111111111111",
+        "address": "UTABCRXirrbpCNDogCoqEECtM3V44jXGCsK23ZepV3Z",
+        "collateralMintAddress": "AVxnqyCameKsKTCGVKeyJMA7vjHnxJit6afC8AM9MdMj",
+        "collateralSupplyAddress": "9QqRewoWbePkSH919xXn826h67ea1EFAVXhTdiJArDnx",
+        "liquidityAddress": "5cSfC32xBUYqGfkURLGfANuK64naHmMp27jUT7LQSujY",
+        "liquidityFeeReceiverAddress": "5wo1tFpi4HaVKnemqaXeQnBEpezrJXcXvuztYaPhvgC7",
+        "userSupplyCap": "15000"
+      }
+    ],
+    "lookupTableAddress": "DVUyUk1cVEFxb8qFue797WtBkAaCr5jXjxX4F5qNgpuD"
+  }
+]

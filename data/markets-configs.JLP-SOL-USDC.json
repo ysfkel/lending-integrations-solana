@@ -1,0 +1,73 @@
+[
+  {
+    "name": "JLP/SOL/USDC",
+    "isPrimary": false,
+    "description": "This pool allows you to collateralize the Jupiter JLP perp token against SOL and USDC",
+    "creator": "3W9YCKUZfZNW4oC6SK6CbNbmxiBRudWbdorbbQVFqi2H",
+    "address": "ErM46rCeAtGtEKjvZ3tuGrzL6L5nVq6pFuXukocbKqGX",
+    "hidden": false,
+    "isPermissionless": true,
+    "authorityAddress": "452LXF4PhpiBHnChqsqAxrUaTVRmEocZZ4CNqeQ2kux4",
+    "owner": "3W9YCKUZfZNW4oC6SK6CbNbmxiBRudWbdorbbQVFqi2H",
+    "reserves": [
+      {
+        "liquidityToken": {
+          "coingeckoID": "",
+          "decimals": 6,
+          "logo": "https://static.jup.ag/jlp/icon.png",
+          "mint": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+          "name": "Jupiter Perps LP",
+          "symbol": "JLP",
+          "volume24h": ""
+        },
+        "pythOracle": "2TTGSRSezqFzeLUH8JwRUbtN66XLLaymfYsWRTMjfiMw",
+        "switchboardOracle": "nu11111111111111111111111111111111111111111",
+        "extraOracle": "11111111111111111111111111111111",
+        "address": "5KgLA2161PJqLcEty8V1ikE6Y8h8KFGuvJHUQcVZJ7EF",
+        "collateralMintAddress": "GChRsbhoY8ZbnBqsqdSgzHmyCSPgYrWQZCYnLAKButUP",
+        "collateralSupplyAddress": "HY91tfEkHStprGuGxmtmtGkb4rKf5yszncinFj5a4ouM",
+        "liquidityAddress": "9ub85UDU4GP5bjSyR3K4FPwK3bngiKyeMkPrKdSJWvtb",
+        "liquidityFeeReceiverAddress": "91Ts9nHaeRhcKxChyED3r9HF7rQNqzHo3ye9CmYH7w86"
+      },
+      {
+        "liquidityToken": {
+          "coingeckoID": "usd-coin",
+          "decimals": 6,
+          "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+          "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+          "name": "USD Coin",
+          "symbol": "USDC",
+          "volume24h": "3998647138.767219"
+        },
+        "pythOracle": "Dpw1EAVrSB1ibxiDQyTAW6Zip3J4Btk2x4SgApQCeFbX",
+        "switchboardOracle": "D7JAL8dBQiqAKDr2h6E7MwHZFc1AGc6VBs9VhW3knKXR",
+        "extraOracle": "BjUgj6YCnFBZ49wF54ddBVA9qu8TeqkFtkbqmZcee8uW",
+        "address": "GShhnkfbaYy41Fd8vSEk9zoiwZSKqbH1j16jZ2afV2GG",
+        "collateralMintAddress": "2GxvUP7z17dig1Vm1LAFyTaXa8K4PHgHWkBDBfvMFzzg",
+        "collateralSupplyAddress": "G1FgoCSRjxPsvcdMsTgBVGixbpNkaphcu3yzw11CHMub",
+        "liquidityAddress": "5PdQyMRAHKzUMjcpB3RpuFM85Spjs5VQsBkgUD6UscAX",
+        "liquidityFeeReceiverAddress": "5Gdxn4yquneifE6uk9tK8X4CqHfWKjW2BvYU25hAykwP"
+      },
+      {
+        "liquidityToken": {
+          "coingeckoID": "wrapped-solana",
+          "decimals": 9,
+          "logo": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+          "mint": "So11111111111111111111111111111111111111112",
+          "name": "Wrapped SOL",
+          "symbol": "SOL",
+          "volume24h": "21524593.743626755"
+        },
+        "pythOracle": "7UVimffxr9ow1uXYxsr4LHAcV58mLzhmwaeKvJ1pjLiE",
+        "switchboardOracle": "GvDMxPzN1sCj7L26YDK2HnMRXEQmQ2aemov8YBtPS7vR",
+        "extraOracle": "11111111111111111111111111111111",
+        "address": "8kd8cDJEioKFXckK8tP2FHNSQLDGguCFj5Vy1vK5eDGV",
+        "collateralMintAddress": "Cw95qrHGHoMpf1tEipLoBUjRXH88x5E5a2dFYKkjXrmC",
+        "collateralSupplyAddress": "DQLZFFdpFuWgRj8mpcyGJ6hRXHJnpvnkatyaSeRJFXCD",
+        "liquidityAddress": "52tegsJuDECHbK3BpHVikmeEmsBoQpLdyrdHM75qACx7",
+        "liquidityFeeReceiverAddress": "5wo1tFpi4HaVKnemqaXeQnBEpezrJXcXvuztYaPhvgC7"
+      }
+    ],
+    "lookupTableAddress": "3mV7zcW1Fj7ZDFyWovdRnneeAxa7azf4uHZoGjzeNZmw"
+  }
+]

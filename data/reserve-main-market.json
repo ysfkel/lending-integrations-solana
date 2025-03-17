@@ -1,0 +1,79 @@
+{
+    "reserve": {
+      "version": 1,
+      "lastUpdate": {
+        "slot": "325454621",
+        "stale": 0
+      },
+      "lendingMarket": "4UpD2fh7xH3VP9QQaXtsS1YY3bxzWhtfpks7FatyKvdY",
+      "liquidity": {
+        "mintPubkey": "So11111111111111111111111111111111111111112",
+        "mintDecimals": 9,
+        "supplyPubkey": "8UviNr47S8eL6J3WfDxMRa3hvLta1VDJwNWqsDgtN3Cv",
+        "oracleOption": null,
+        "pythOracle": "7UVimffxr9ow1uXYxsr4LHAcV58mLzhmwaeKvJ1pjLiE",
+        "switchboardOracle": "GvDMxPzN1sCj7L26YDK2HnMRXEQmQ2aemov8YBtPS7vR",
+        "availableAmount": "99771994766958",
+        "borrowedAmountWads": "193677944885524231236431488944148",
+        "cumulativeBorrowRateWads": "1276256430388019825",
+        "marketPrice": "137584172070000000000",
+        "accumulatedProtocolFeesWads": "4740622918879096572356152",
+        "smoothedMarketPrice": null
+      },
+      "collateral": {
+        "mintPubkey": "5h6ssFpeDeRbzsEHDbTQNH7nVGgsKrZydxdSTnLm6QdV",
+        "mintTotalSupply": "255180796565970",
+        "supplyPubkey": "B1ATuYXNkacjjJS78MAmqu8Lu8PvEPt51u4oBasH1m1g"
+      },
+      "config": {
+        "optimalUtilizationRate": 80,
+        "maxUtilizationRate": 90,
+        "loanToValueRatio": 65,
+        "liquidationBonus": 3,
+        "maxLiquidationBonus": 5,
+        "liquidationThreshold": 72,
+        "maxLiquidationThreshold": 74,
+        "minBorrowRate": 3,
+        "optimalBorrowRate": 5,
+        "maxBorrowRate": 15,
+        "superMaxBorrowRate": "300",
+        "fees": {
+          "borrowFeeWad": "1000000000000000",
+          "flashLoanFeeWad": "500000000000000",
+          "hostFeePercentage": 20
+        },
+        "depositLimit": "1000000000000000",
+        "borrowLimit": "800000000000000",
+        "feeReceiver": "5wo1tFpi4HaVKnemqaXeQnBEpezrJXcXvuztYaPhvgC7",
+        "protocolLiquidationFee": 19,
+        "protocolTakeRate": 20,
+        "addedBorrowWeightBPS": "0",
+        "borrowWeight": "1",
+        "reserveType": 0,
+        "liquidityExtraMarketPriceFlag": 0,
+        "liquidityExtraMarketPrice": "0",
+        "attributedBorrowValue": "685561931189761326972860",
+        "scaledPriceOffsetBPS": "0",
+        "extraOracle": "11111111111111111111111111111111",
+        "attributedBorrowLimitOpen": "18446744073709551615",
+        "attributedBorrowLimitClose": "18446744073709551615"
+      },
+      "rateLimiter": {
+        "config": {
+          "maxOutflow": "0",
+          "windowDuration": "0"
+        },
+        "previousQuantity": "0",
+        "windowStart": "0",
+        "currentQuantity": "0"
+      },
+      "pubkey": "8PbodeaosQP19SjYFx855UMqWxH2HynZLdBXmsrbac36",
+      "address": "8PbodeaosQP19SjYFx855UMqWxH2HynZLdBXmsrbac36"
+    },
+    "cTokenExchangeRate": "1.14996872359082818233",
+    "rates": {
+      "supplyInterest": "3.14",
+      "borrowInterest": "6.01"
+    },
+    "rewards": []
+  }

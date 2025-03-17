@@ -1,0 +1,350 @@
+[0m[38;5;8m[[0m2025-03-10T14:14:05.802340000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:05.802438000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:06.260728000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:06.260836000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:06.759773000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:06.759885000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:07.226477000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:07.226607000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:07.697348000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:07.697442000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:08.192898000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:08.192955000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:08.656935000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:08.656988000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:09.127818000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:09.127886000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:09.592295000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:09.592345000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:10.051814000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:10.051871000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:10.524792000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:10.524833000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:11.045741000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:11.045835000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:11.510479000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:11.510575000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:11.975258000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:11.975346000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:12.425336000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:12.425402000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:12.896509000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:12.896561000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:13.369316000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:13.369367000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:13.836571000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:13.836620000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:14.296328000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:14.296369000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:14.758156000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:14.758246000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:15.215486000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:15.215547000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:15.682334000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:15.682386000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:16.145445000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:16.145492000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:16.995400000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:16.995464000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:17.589789000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:17.589912000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:18.104052000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:18.104113000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:18.607535000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:18.607644000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:19.096592000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:19.096682000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:19.613270000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:19.613385000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:20.119020000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:20.119137000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:20.625722000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:20.625785000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:21.107970000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:21.108089000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:21.603595000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:21.603639000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:22.097277000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:22.097324000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:22.580851000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:22.580980000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:23.068339000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:23.068384000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:23.644513000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:23.644579000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:24.139472000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:24.139574000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:24.638636000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:24.638712000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:25.180007000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:25.180092000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:25.675796000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:25.675866000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:26.163559000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:26.163618000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:26.647533000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:26.647762000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:27.143747000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:27.143816000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:27.647190000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:27.647296000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:28.147055000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:28.147136000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:28.604073000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:28.604193000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:29.165648000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:29.165770000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:29.634092000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:29.634179000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:30.124937000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:30.124984000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:30.622067000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:30.622180000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:31.103125000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:31.103238000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:31.594946000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:31.594999000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:32.129856000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:32.129956000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:32.625420000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:32.625484000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:33.140141000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:33.140240000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:33.648443000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:33.648567000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:34.145970000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:34.146021000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:34.720297000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:34.720411000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:35.224254000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:35.224370000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:35.691856000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:35.691926000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:36.167393000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:36.167477000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:36.641240000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:36.641310000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:37.095369000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:37.095421000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:37.548664000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:37.548765000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:38.018562000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:38.018625000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:38.488168000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:38.488280000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:38.940506000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:38.940556000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:39.407880000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:39.407979000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:39.867244000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:39.867296000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:40.334794000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:40.334895000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:40.806943000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:40.807005000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:41.263790000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:41.263858000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:41.724727000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:41.724791000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:42.189280000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:42.189343000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:42.658908000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:42.658956000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:43.161005000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:43.161126000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:43.679445000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:43.679520000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:44.202660000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:44.202777000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:44.719894000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:44.719966000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:45.245646000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:45.245767000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:45.744007000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:45.744057000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:46.275528000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:46.275567000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:46.810880000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:46.810988000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:47.338243000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:47.338388000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:47.893480000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:47.893567000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:48.405686000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:48.405801000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:48.972166000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:48.972234000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:49.501424000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:49.501466000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:50.002685000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:50.002731000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:50.522206000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:50.522290000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:51.046179000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:51.046225000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:51.570541000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:51.570588000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:52.125356000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:52.125399000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:52.668844000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:52.668890000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:53.166384000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:53.166466000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:53.720716000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:53.720849000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:54.271030000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:54.271143000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:54.783366000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:54.783410000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:55.291559000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:55.291636000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:55.832770000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:55.832907000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:56.320541000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:56.320639000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:56.819740000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:56.819823000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:57.328109000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:57.328212000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:57.853091000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:57.853213000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:58.359275000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:58.359378000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:58.904920000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:58.905023000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:59.429956000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:59.430075000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:14:59.934044000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:14:59.934106000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:00.440328000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:00.440455000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:01.005104000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:01.005220000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:01.498191000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:01.498293000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:01.995270000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:01.995410000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:02.506503000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:02.506631000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:02.994342000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:02.994383000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:03.513551000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:03.513607000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:04.038503000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:04.038633000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:04.511630000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:04.511695000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:05.062614000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:05.062743000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:05.554206000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:05.554306000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:06.058371000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:06.058455000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:06.571688000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:06.571742000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:07.079410000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:07.079496000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:07.592080000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:07.592197000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:08.087352000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:08.087481000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:08.562334000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:08.562452000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:09.041908000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:09.041979000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:09.526115000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:09.526179000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:10.078772000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:10.078844000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:10.575898000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:10.576023000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:11.069381000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:11.069460000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:11.548891000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:11.548944000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:12.071596000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:12.071638000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:12.600638000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:12.600748000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:13.143679000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:13.143802000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:13.640652000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:13.640724000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:14.167316000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:14.167397000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:14.694099000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:14.694199000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:15.201897000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:15.202020000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:15.671916000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:15.672020000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:16.163926000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:16.164041000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:16.640077000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:16.640123000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:17.142666000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:17.142763000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:17.639388000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:17.639497000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:18.113795000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:18.113875000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:18.603891000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:18.603971000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:19.103705000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:19.103813000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:19.635731000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:19.635800000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:20.204727000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:20.204847000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:20.745445000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:20.745494000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:21.294174000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:21.294281000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:21.807507000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:21.807593000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:22.315151000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:22.315207000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:22.806025000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:22.806118000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:23.297923000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:23.297965000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:23.802685000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:23.802730000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:24.298021000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:24.298085000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:24.782254000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:24.782294000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:25.336680000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:25.336767000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:25.836049000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:25.836170000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:26.324470000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:26.324573000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:26.827202000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:26.827368000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:27.303226000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:27.303291000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:27.809839000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:27.809879000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:28.318175000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:28.318243000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:28.823291000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:28.823393000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:29.309939000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:29.310055000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:29.793387000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:29.793465000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:30.292538000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:30.292639000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:30.841033000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:30.841169000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:31.338822000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:31.338921000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:31.818958000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:31.819012000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:32.314021000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:32.314063000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:32.811472000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:32.811533000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
+[0m[38;5;8m[[0m2025-03-10T14:15:33.278225000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 invoke [1]
+[0m[38;5;8m[[0m2025-03-10T14:15:33.278270000Z [0m[34mDEBUG[0m solana_runtime::message_processor::stable_log[0m[38;5;8m][0m Program Vote111111111111111111111111111111111111111 success
