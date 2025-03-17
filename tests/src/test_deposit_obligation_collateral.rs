@@ -59,7 +59,6 @@ fn test_deposit_obligatory_collateral() -> Result<(), Box<dyn std::error::Error>
     let space = 2040;
     let lamports = system_program_client.get_minimum_balance_for_rent_exemption(space)?; // Adjust size as needed
     
-    //assert_eq!(10, lamports);
     let create_account_ix = system_instruction::create_account(
         &payer.pubkey(),
         &account_pubkey, // AQi4hXeyynVGHgR7spi1v6Bx1ePtJBH94VpqBCWKoiQW
@@ -74,11 +73,8 @@ fn test_deposit_obligatory_collateral() -> Result<(), Box<dyn std::error::Error>
         &[&payer, &account_keypair], // Signers
         system_program_client.get_latest_blockhash()?,
     );
-
-   // assert_eq!("cc", account_pubkey.to_string());
-
- //   system_program_client.send_and_confirm_transaction(&tx)?; 
  
+
     let tx = defi_markets_program
         .request()
         .accounts(defi_market::accounts::InitObligation {
@@ -99,12 +95,4 @@ fn test_deposit_obligatory_collateral() -> Result<(), Box<dyn std::error::Error>
  
     Ok(())
 }
-
-
-//LOGS 
-// Program log: Instruction: InitObligation
-// Program log: lending_program_id ALend7Ketfx5bxh6ghsCDXAoDrhvEmsXT3cynB6aPLgx
-// Program log: obligation 5AVudxCjhyWbc3EWxRPCAEYbgDvkgWEx63J9FmPaxUKr
-// Program log: lending_market GvjoVKNjBvQcFaSKUW1gTE7DxhSpjHbE69umVR5nPuQp
-// Program log: obligation_owner 5GUiAxkPsKNj4bCGK2TMYvxi3jGifrbU5TpUyvDU1B6M
-// Program log: token_program_id TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA
+ 

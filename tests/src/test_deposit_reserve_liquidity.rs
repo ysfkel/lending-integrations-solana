@@ -34,8 +34,7 @@ use crate::constants::{
 fn test_deposit_reserve_liquidity() -> Result<(), Box<dyn std::error::Error>> {
     let anchor_wallet = std::env::var("ANCHOR_WALLET").unwrap();
     let payer = read_keypair_file(&anchor_wallet).unwrap();
-
-    // let client = Client::new_with_options(Cluster::Localnet, &payer, CommitmentConfig::confirmed());
+ 
     let client = Client::new_with_options(Cluster::Devnet, &payer, CommitmentConfig::confirmed());
     let program_id = Pubkey::from_str(DEFI_MARKETS_PROGRAM_ID).unwrap();
     let program = client.program(program_id).unwrap();
@@ -86,8 +85,8 @@ fn test_deposit_reserve_liquidity() -> Result<(), Box<dyn std::error::Error>> {
 
     let create_ata_transaction = Transaction::new_signed_with_payer(
         &[
-            // create_associated_account_ix,
-            // create_associated_account_wrapped_sol_ix,
+            create_associated_account_ix,
+            create_associated_account_wrapped_sol_ix,
             transfer_sol_ix,
             sync_native_ix,
         ],
@@ -97,9 +96,9 @@ fn test_deposit_reserve_liquidity() -> Result<(), Box<dyn std::error::Error>> {
     );
    
  
-   //let signature = rpc_client.send_and_confirm_transaction(&create_ata_transaction)?;
+   let signature = rpc_client.send_and_confirm_transaction(&create_ata_transaction)?;
 
-    let amount: u64 = 100_000_000_000; // 20 sol
+    let amount: u64 = 100_000_000_000;  
     let tx = program
         .request()
         .accounts(defi_market::accounts::DepositReserveLiquidity {
@@ -120,15 +119,13 @@ fn test_deposit_reserve_liquidity() -> Result<(), Box<dyn std::error::Error>> {
         .send()
         .expect("");
 
-    // let final_balance = rpc_client
-    //     .get_token_account_balance(&source_liquidity_wsol_ata)?
-    //     .amount
-    //     .parse::<u64>()
-    //     .unwrap_or(0);
+    let final_balance = rpc_client
+        .get_token_account_balance(&source_liquidity_wsol_ata)?
+        .amount
+        .parse::<u64>()
+        .unwrap_or(0);
 
-    // assert!(final_balance > 0);
-
-    // assert_eq(! <check my collateral balance to make sure its minted>)
-
+    assert!(final_balance > 0);
+ 
     Ok(())
 }
