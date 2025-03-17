@@ -60,7 +60,9 @@ pub struct DepositObligationCollateral<'info> {
     #[account(mut)]
     pub deposit_reserve: AccountInfo<'info>,
     /// CHECK: checked by lending program
-    #[account(mut)]
+    #[account(mut,
+        owner = lending_program_id.key(),
+    )]
     pub obligation: AccountInfo<'info>,
     /// CHECK: checked by lending program
     pub lending_market: AccountInfo<'info>,
