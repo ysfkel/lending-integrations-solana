@@ -59,7 +59,9 @@ pub struct DepositReserveLiquidity<'info> {
     #[account(mut)]
     pub destination_collateral: AccountInfo<'info>,
     /// CHECK: Checked in the lending program
-    #[account(mut)]
+    #[account(mut,
+       owner = lending_program_id.key(),
+    )]
     pub reserve: AccountInfo<'info>,
     /// CHECK: Checked in the lending program
     #[account(mut)]
@@ -68,6 +70,9 @@ pub struct DepositReserveLiquidity<'info> {
     #[account(mut)]
     pub reserve_collateral_mint: AccountInfo<'info>,
     /// CHECK: Checked in the lending program
+    #[account(
+        owner = lending_program_id.key(),
+    )]
     pub lending_market: AccountInfo<'info>,
     /// CHECK: Checked in the lending program
     pub lending_market_authority: AccountInfo<'info>,
