@@ -44,8 +44,8 @@ pub struct InitObligation<'info> {
     #[account(mut)]
     pub payer: Signer<'info>,
     /// CHECK: checked by lending program
-   #[account(mut
-       // owner = lending_program_id.key(),
+   #[account(mut,
+       owner = lending_program_id.key(),
     )]
     pub obligation: AccountInfo<'info>,
     /// CHECK: checked by lending program
