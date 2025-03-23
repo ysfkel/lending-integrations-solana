@@ -57,9 +57,7 @@ fn test_deposit_reserve_liquidity() -> Result<(), Box<dyn std::error::Error>> {
         &collateral_mint,
         &token_program_id,
     );
-
-    // wrapped sol ata -> GUkMYpCmPBbuKqMqooBNmLMN5U4Sw79TUJHbT3AQV1qk - localnet
-    // wrapped sol ata -> GUkMYpCmPBbuKqMqooBNmLMN5U4Sw79TUJHbT3AQV1qk - devnet
+ 
     let source_liquidity_wsol_ata =
         get_associated_token_address(&payer.pubkey(), &native_mint::id());
 
